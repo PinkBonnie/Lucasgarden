@@ -1,0 +1,132 @@
+/*top to bottom*/
+.top
+{background-color:pink;
+position:relative;
+padding-top: 100px;
+padding-bottom: 0px;}
+
+.middle
+{padding: 100px 0 100px 0;}
+
+.bottom
+{background-color: #66BFBF;
+  padding-top: 10px;
+  padding: 50px 0 20px;
+  height: 80px;}
+
+/*body styles*/
+
+a
+{color:#66BFBF;
+margin: 10px 20px;
+text-decoration: none;}
+
+a:hover{color: white;}
+
+body
+{color:#40514E;
+margin: 0;
+text-align: center;
+font-family: 'Roboto Condensed', sans-serif;}
+
+.btn {
+  background: #e699ff;
+  background-image: -webkit-linear-gradient(top, #e699ff, #54b9f7);
+  background-image: -moz-linear-gradient(top, #e699ff, #54b9f7);
+  background-image: -ms-linear-gradient(top, #e699ff, #54b9f7);
+  background-image: -o-linear-gradient(top, #e699ff, #54b9f7);
+  background-image: linear-gradient(to bottom, #e699ff, #54b9f7);
+  -webkit-border-radius: 19;
+  -moz-border-radius: 19;
+  border-radius: 19px;
+  font-family:  'Roboto Condensed', sans-serif;;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #58a2fc;
+  background-image: -webkit-linear-gradient(top, #58a2fc, #ea79f7);
+  background-image: -moz-linear-gradient(top, #58a2fc, #ea79f7);
+  background-image: -ms-linear-gradient(top, #58a2fc, #ea79f7);
+  background-image: -o-linear-gradient(top, #58a2fc, #ea79f7);
+  background-image: linear-gradient(to bottom, #58a2fc, #ea79f7);
+  text-decoration: none;
+}
+
+.contactmsg
+{width:40%;
+margin:40px auto 60px auto; }
+
+.copyright
+{color: #EAF6F6;
+font-size: 0.75rem;
+padding: 20px 0;}
+
+.favorite-row
+{line-height: 2;
+margin: 100px auto 100px auto;
+text-align: left;
+width: 50%;
+}
+
+
+.food
+{width:25%;
+float: left;
+margin-right: 30px;}
+
+.footer-link
+{color: #11999E}
+
+hr {
+    border-style:none;
+    border-top-style:dotted;
+    border-color: #D8D8D8;
+    border-width: 5px;
+    margin: 100px auto;
+    width: 5%
+  }
+
+h1
+{color:#66BFBF;
+font-family: 'Ms Madi', cursive;
+font-size: 5.625rem;
+margin: 50px auto 0 auto;
+}
+
+h2
+{color:#66BFBF;
+ font-size: 2.5rem;
+ font-weight: normal;
+ padding-bottom: 10px;}
+
+h3{color:#11999E;}
+
+.knit
+{width:25%;
+float:right;
+margin-left: 30px;}
+
+.kumo
+{width:200px;
+position: absolute;
+right:300px;
+top:50px;}
+
+.kumo1
+{width:200px;
+position:absolute;
+left:300px;
+bottom:300px;}
+
+p{line-height: 2;}
+
+.pbear
+{width: 100px;}
+
+
+.teddy
+{text-decoration: underline;}
